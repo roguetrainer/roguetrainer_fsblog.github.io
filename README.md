@@ -1,8 +1,9 @@
-Website is a clone of [FsBlog](https://github.com/fsprojects/FsBlog/).
+This website is a clone of [FsBlog](https://github.com/fsprojects/FsBlog/), a blog aware, static site generation framework using the functional-first, .net language F#.
 
-See also other sites similar to FsBlog:
-[TomaspNet](https://github.com/tpetricek/TomaspNet.Website); 
-[evelinag](https://github.com/evelinag/evelinag.github.io), is an example of an FsBlog.
+See also other sites based on FsBlog:
+  * [TomaspNet](https://github.com/tpetricek/TomaspNet.Website) 
+  * [evelinag](https://github.com/evelinag/evelinag.github.io)
+  * [Grim's Scythe](https://neoeinstein.github.io/).
 
 Download & unzip the repository from https://github.com/fsprojects/FsBlog/.
 
