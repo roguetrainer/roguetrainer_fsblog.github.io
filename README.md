@@ -5,7 +5,9 @@ See also other sites based on FsBlog:
   * [evelinag](https://github.com/evelinag/evelinag.github.io)
   * [Grim's Scythe](https://neoeinstein.github.io/).
 
-Download & unzip the repository from https://github.com/fsprojects/FsBlog/.
+Download & unzip the repository from https://github.com/fsprojects/FsBlog/. Edit README.md (this file).
+
+For getting started instructions see http://fsprojects.github.io/FsBlog/blog/2013/11-09-getting-started/index.html.
 
 Find your Visual Studio command prompt, e.g. [C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\Shortcuts\Developer Command Prompt for VS2013]
 
